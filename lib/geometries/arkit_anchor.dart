@@ -1,4 +1,3 @@
-import 'package:arkit_plugin/geometries/arkit_face.dart';
 import 'package:arkit_plugin/geometries/arkit_skeleton.dart';
 import 'package:arkit_plugin/utils/json_converters.dart';
 import 'package:json_annotation/json_annotation.dart';
